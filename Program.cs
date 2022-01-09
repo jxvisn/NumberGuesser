@@ -23,7 +23,7 @@ namespace NumberGuesser
             //GreetUser
             Console.WriteLine("What is your name?");
             var userName = Console.ReadLine();
-            Console.WriteLine("Hello {0}! Let's play a game...", userName);
+            Console.WriteLine("Good day {0}! Let's play a game...", userName);
             //PlayGame
             while (true)
             {
